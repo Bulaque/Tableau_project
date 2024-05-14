@@ -1,2 +1,10 @@
 # Tableau_project
-Tableau graphs, dashboards, story and map are located in Website URL comments in bootcampspot.
+Tableau Url: https://public.tableau.com/app/profile/blake.stephenson/viz/Module18CitiBikeHWfinal/LongRideTimeStory?publish=yes
+
+Analysis:
+
+These visualizations are made up from three CitiBike csvs from three August days in 2017. The first dashboard asks the question: Who rides the most and where do they go, and focuses on showing where the longest rides start and end as well as the gender and user type of each rider. This comparision comes from the bigger question of who is spending the most time on these bikes. Some discoveries that were made were that the overwhelming majority of the longest duration rides were coming from the Essex Light Rail and ending at the Morris Canal and Jersey & 3rd station, but saw the majority of riders starting together and the vast majority, being subscribers, ending at Morris Canal and Jersey & 3rd and the minority, non-subscribers, ending their ride in multiple different locations; possibly meaning a large amount of subscribers live in and work in those areas.
+
+The second dashboard digs in a little deeper and asks the question: How old are these riders and when do they ride, focusing on the average trip time per age and when these rides take place throughout the week. The discoveries made here were that those aged 26, 44, 45, 59, and 64 all ride the longest, on average, over any other age. Another discovery made was that the amount of bikes being ridden starts from the least amount on Sunday, grows up to midweek on Wednesday, then drops back down to the lowest on Saturday. This answers another question: when do we see they bikes in use.
+
+The last strangest discovery is that the longest trips start and end very close together and are shown on the Start and End Station maps. Is rasies more questions: Why are people riding so far and ending at a close station instead of ending where they began? Do they drive from home to these stations and use the bikes to get around town? Where do they ride the bikes throughout their trip? This last point needs more analysis but is proof of more information avalible to find.
